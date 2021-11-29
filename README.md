@@ -1,7 +1,4 @@
-# ASS-SAEA
-Surrogate-assisted evolutionary algorithms based on a dynamic model management strategy
-ASS_SAEA.m
-% Adopt surrogate-assisted evolutionary algorithm based on adaptive surrogate selection 
+ASS_SAEA.m   % Adopt surrogate-assisted evolutionary algorithm based on adaptive surrogate selection 
 PSO_U_CVV_MC.m
 % Find the most uncertainty solution by cross validation and Voronoi diagram
 PSO_Lsel.m
